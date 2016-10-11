@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_menu_1"
+        android:title="Home"/>
+
+    <item android:id="@+id/nav_menu_2"
+        android:title="My Raffles"/>
+
+    <item android:id="@+id/nav_menu_3"
+        android:title="Create-a-Raffle"/>
+
+    <item android:id="@+id/nav_menu_4"
+        android:title="Log Out" />
+</menu>
